@@ -1,0 +1,1 @@
+You have two variables: i is a value type variable, and o is a reference type variable. How does it make sense to assign the value of i to o?
